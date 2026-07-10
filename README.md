@@ -46,16 +46,10 @@ httpx -l domains.txt
 
 Checks each domain and prints only the reachable websites.
 
-### Example Output
-
-```text
-https://google.com
-https://facebook.com
-```
-
 📸 **Screenshot**
 
-_Add your screenshot here._
+<img width="678" height="358" alt="Screenshot 2026-07-10 174653" src="https://github.com/user-attachments/assets/9c1b80a4-2e73-43d1-af13-f2801847b110" />
+
 
 ---
 
@@ -71,27 +65,10 @@ httpx -l domains.txt -status-code
 
 Displays the HTTP response status for every live host.
 
-### Example Output
-
-```text
-https://google.com [200]
-https://facebook.com [200]
-```
-
-### Common Status Codes
-
-| Code | Meaning |
-|------|---------|
-| 200 | Success |
-| 301 | Permanent Redirect |
-| 302 | Temporary Redirect |
-| 403 | Forbidden |
-| 404 | Not Found |
-| 500 | Internal Server Error |
-
 📸 **Screenshot**
 
-_Add your screenshot here._
+<img width="626" height="361" alt="Screenshot 2026-07-10 174803" src="https://github.com/user-attachments/assets/e7b0570b-248c-4700-8e3c-7a236e2b137d" />
+
 
 ---
 
@@ -107,16 +84,10 @@ httpx -l domains.txt -title
 
 Extracts the HTML `<title>` of each website.
 
-### Example Output
-
-```text
-https://google.com [Google]
-https://facebook.com [Facebook – log in or sign up]
-```
-
 📸 **Screenshot**
 
-_Add your screenshot here._
+<img width="952" height="365" alt="Screenshot 2026-07-10 174900" src="https://github.com/user-attachments/assets/a8980d67-32cc-487b-a007-403bf7fe098a" />
+
 
 ---
 
@@ -132,16 +103,10 @@ httpx -l domains.txt -tech-detect
 
 Identifies technologies and frameworks used by the target website.
 
-### Example Output
-
-```text
-https://google.com [Google Frontend]
-https://facebook.com [React]
-```
-
 📸 **Screenshot**
 
-_Add your screenshot here._
+<img width="1536" height="390" alt="Screenshot 2026-07-10 174926" src="https://github.com/user-attachments/assets/35fd69a2-1e39-449f-ab2c-4bc4cdecfe9f" />
+
 
 ---
 
@@ -157,16 +122,9 @@ httpx -l domains.txt -server
 
 Displays the HTTP **Server** header returned by the web server.
 
-### Example Output
-
-```text
-https://google.com [gws]
-https://facebook.com [proxygen]
-```
-
 📸 **Screenshot**
 
-_Add your screenshot here._
+<img width="652" height="361" alt="Screenshot 2026-07-10 174947" src="https://github.com/user-attachments/assets/516f91f8-36d0-4a32-8439-37905c1f8f14" />
 
 ---
 
@@ -182,16 +140,10 @@ httpx -l domains.txt -ip
 
 Resolves the domain name to its corresponding IP address.
 
-### Example Output
-
-```text
-https://google.com [142.250.xxx.xxx]
-https://facebook.com [157.240.xxx.xxx]
-```
-
 📸 **Screenshot**
 
-_Add your screenshot here._
+<img width="678" height="372" alt="Screenshot 2026-07-10 175006" src="https://github.com/user-attachments/assets/0b509d7a-15e9-477b-bdea-7e2db84c3002" />
+
 
 ---
 
@@ -207,15 +159,10 @@ httpx -l domains.txt -content-length
 
 Displays the size of the HTTP response body in bytes.
 
-### Example Output
-
-```text
-https://google.com [18342]
-https://facebook.com [92761]
-```
 
 📸 **Screenshot**
 
-_Add your screenshot here._
+<img width="632" height="350" alt="Screenshot 2026-07-10 210625" src="https://github.com/user-attachments/assets/0f62ccb3-0f5d-4feb-a921-87cb5b261b8d" />
+
 
 ---
