@@ -124,7 +124,7 @@ Displays the HTTP **Server** header returned by the web server.
 
 📸 **Screenshot**
 
-<img width="652" height="361" alt="Screenshot 2026-07-10 174947" src="https://github.com/user-attachments/assets/516f91f8-36d0-4a32-8439-37905c1f8f14" />
+<img width="678" height="372" alt="Screenshot 2026-07-10 175006" src="https://github.com/user-attachments/assets/0b509d7a-15e9-477b-bdea-7e2db84c3002" />
 
 ---
 
@@ -142,8 +142,7 @@ Resolves the domain name to its corresponding IP address.
 
 📸 **Screenshot**
 
-<img width="678" height="372" alt="Screenshot 2026-07-10 175006" src="https://github.com/user-attachments/assets/0b509d7a-15e9-477b-bdea-7e2db84c3002" />
-
+<img width="652" height="361" alt="Screenshot 2026-07-10 174947" src="https://github.com/user-attachments/assets/516f91f8-36d0-4a32-8439-37905c1f8f14" />
 
 ---
 
@@ -162,7 +161,9 @@ Displays the size of the HTTP response body in bytes.
 
 📸 **Screenshot**
 
-<img width="632" height="350" alt="Screenshot 2026-07-10 210625" src="https://github.com/user-attachments/assets/0f62ccb3-0f5d-4feb-a921-87cb5b261b8d" />
+<img width="625" height="352" alt="Screenshot 2026-07-10 210633" src="https://github.com/user-attachments/assets/3d06f687-9042-4ae0-91ac-2da16e47fe5a" />
 
 
 ---
+
+Thankyou.
